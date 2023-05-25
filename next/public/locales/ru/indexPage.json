@@ -1,9 +1,9 @@
 {
-  "BETA": "Бета",
-  "HEADING_DESCRIPTION": "Соберите, настройте и установите автономных агентов искусственного интеллекта в своем браузере.",
-  "AGENT_NAME": "Имя",
+  "BETA": "omega",
+  "HEADING_DESCRIPTION": "Соберите, настройте и установите автономных джинов доверенного ИИ в своем доверенном браузере.",
+  "AGENT_NAME": "Нейм",
   "LABEL_AGENT_GOAL": "Цель",
-  "PLACEHOLDER_AGENT_GOAL": "Сделать мир лучше",
-  "BUTTON_DEPLOY_AGENT": "Запустить агента",
-  "BUTTON_STOP_AGENT": "Остановить агента"
+  "PLACEHOLDER_AGENT_GOAL": "Сделать мир пизже",
+  "BUTTON_DEPLOY_AGENT": "Выпустить джина из бутылки",
+  "BUTTON_STOP_AGENT": "Остановить джина"
 }
