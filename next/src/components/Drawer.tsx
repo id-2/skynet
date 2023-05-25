@@ -156,7 +156,7 @@ const Drawer = ({ showHelp, showSettings }: { showHelp: () => void; showSettings
                 />
               }
               text="GitHub"
-              href="https://github.com/reworkd/AgentGPT"
+              href="https://github.com/reworkd/tonbot"
               target="_blank"
               small
             />

@@ -60,7 +60,7 @@ const Home: NextPage = () => {
   const agentUtils = useAgent();
 
   useEffect(() => {
-    const key = "agentgpt-modal-opened-v0.2";
+    const key = "tonbot-modal-opened-v0.2";
     const savedModalData = localStorage.getItem(key);
 
     setTimeout(() => {
@@ -262,7 +262,7 @@ const Home: NextPage = () => {
             <Expand className="flex w-full flex-row">
               <ChatWindow
                 messages={messages}
-                title="AgentGPT"
+                title="tonbot"
                 onSave={
                   shouldShowSave
                     ? (format) => {
@@ -300,7 +300,7 @@ const Home: NextPage = () => {
                   disabled={agent != null}
                   onChange={(e) => setNameInput(e.target.value)}
                   onKeyDown={(e) => handleKeyPress(e)}
-                  placeholder="AgentGPT"
+                  placeholder="tonbot"
                   type="text"
                 />
                 <Button ping onClick={() => setShowToolsDialog(true)} className="h-fit">

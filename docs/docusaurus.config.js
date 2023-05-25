@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'AgentGPT',
+  title: 'tonbot',
   tagline: 'Autonomous AI agents directly in your browser',
   favicon: 'favicon.ico',
   url: 'https://docs.reworkd.ai',
   baseUrl: '/',
   organizationName: 'reworkd', // Usually your GitHub org/user name.
-  projectName: 'AgentGPT', // Usually your repo name.
+  projectName: 'tonbot', // Usually your repo name.
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -29,7 +29,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          editUrl: 'https://github.com/reworkd/AgentGPT/tree/main/docs/',
+          editUrl: 'https://github.com/reworkd/tonbot/tree/main/docs/',
         },
         blog: false,
         theme: {
@@ -45,7 +45,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '🤖 AgentGPT',
+        title: '🤖 tonbot',
         items: [
           {
             type: 'docSidebar',
@@ -55,7 +55,7 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/reworkd/AgentGPT',
+            href: 'https://github.com/reworkd/tonbot',
             position: 'right',
             className: 'header-github-link',
             'aria-label': 'GitHub repository',

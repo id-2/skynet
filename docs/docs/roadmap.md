@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # 🚀 Roadmap
 
-AgentGPT is currently in beta and we have a lot of features planned. Here's a glimpse of whats in the works!
+tonbot is currently in beta and we have a lot of features planned. Here's a glimpse of whats in the works!
 
 ## Finished features ✔
 
@@ -12,7 +12,7 @@ AgentGPT is currently in beta and we have a lot of features planned. Here's a gl
 - 💾 **Saving and sharing agent runs**
   - If you are signed in, after your agent run has finished you have the ability to save it to our database.
 - 🌐 **Dynamic translations for multiple languages**
-  - AgentGPT is used worldwide, and we want to ensure everyone has a seamless experience on the platform. If we are
+  - tonbot is used worldwide, and we want to ensure everyone has a seamless experience on the platform. If we are
     missing the translation for your language, we'd love your help in getting it implemented!
 - 🤖 **AI Model customization**
   - Now users have the ability to use their own OpenAI API key to customize everything from the model, temperature,
@@ -21,7 +21,7 @@ AgentGPT is currently in beta and we have a lot of features planned. Here's a gl
 ## Features in development ⏳
 
 :::tip
-AgentGPT developers are actively working on the following. Expect these to take anywhere from a few days to 2 weeks.
+tonbot developers are actively working on the following. Expect these to take anywhere from a few days to 2 weeks.
 :::
 
 - 🌐 **Web browsing capabilities**
@@ -39,13 +39,13 @@ AgentGPT developers are actively working on the following. Expect these to take 
     additional context for the agent
 - 📚 **Documentation overhaul**
   - This is the page you're viewing right now! It will continually be updated as the project evolves to allow any new
-    user / contributer to get familiar with AgentGPT as quickly as possible.
+    user / contributer to get familiar with tonbot as quickly as possible.
 
 ## Planned features 🕰️
 
 :::tip
 If any of these features stand out to you, or you'd like to suggest more features, please do so in
-the [AgentGPT discord](https://discord.gg/jdSBAnmdnY)!
+the [tonbot discord](https://discord.gg/jdSBAnmdnY)!
 :::
 
 - 👨‍👩‍👦 **Interaction with websites and people**
@@ -59,5 +59,5 @@ the [AgentGPT discord](https://discord.gg/jdSBAnmdnY)!
 
 We are constantly updating our roadmap and adding new features so stay tuned for more updates and have a look at our
 GitHub.
-We are however a small team and would love community support in helping develop AgentGPT. If you're interested, please
+We are however a small team and would love community support in helping develop tonbot. If you're interested, please
 head over to our [contributing page](/contributing).

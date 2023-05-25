@@ -6,7 +6,7 @@
 	"CREATE_AN_AGENT_DESCRIPTION": "创建一个代理，添加名称和目标，然后单击\"启动代理！\"按钮",
 	"EMBARKING_ON_NEW_GOAL": "迎接新目标：",
 	"EXPERIENCING_EXCEPTIONAL_TRAFFIC": "🚨 我们正在经历异常的流量，请预计会有延迟和错误，如果您没有使用自己的API密钥 🚨",
-	"HELP_SUPPORT_THE_ADVANCEMENT_OF_AGENTGPT": "💝️ 支持AgentGPT的发展。 💝️",
+	"HELP_SUPPORT_THE_ADVANCEMENT_OF_tonbot": "💝️ 支持tonbot的发展。 💝️",
 	"NO_MORE_TASKS": "没有更多的子任务可以使用：",
 	"RESTART_IF_IT_TAKES_X_SEC": "（如果需要30秒以上，请刷新页面或手动重新启动代理）",
 	"SUPPORT_NOW": "现在支持 🚀",

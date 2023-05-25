@@ -4,6 +4,6 @@ sidebar_position: 6
 
 # 🔥 Use Cases
 
-This page is a WIP and will serve as a cool gateway into the different use cases of AgentGPT.
+This page is a WIP and will serve as a cool gateway into the different use cases of tonbot.
 If you already have interesting use cases in mind, please reach out to the moderation or dev team
-on [Discord](https://discord.gg/jdSBAnmdnY) or [GitHub](https://github.com/reworkd/AgentGPT).
+on [Discord](https://discord.gg/jdSBAnmdnY) or [GitHub](https://github.com/reworkd/tonbot).

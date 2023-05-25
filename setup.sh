@@ -33,8 +33,8 @@ printf $ENV > .env.docker
 
 if [ "$1" = "--docker" ]; then
   source .env.docker
-  docker build --build-arg NODE_ENV=$NODE_ENV -t agentgpt .
-  docker run -d --name agentgpt -p 3000:3000 -v $(pwd)/db:/app/db agentgpt
+  docker build --build-arg NODE_ENV=$NODE_ENV -t tonbot .
+  docker run -d --name tonbot -p 3000:3000 -v $(pwd)/db:/app/db tonbot
 elif [ "$1" = "--docker-compose" ]; then
   cd ..
   docker-compose up -d --remove-orphans

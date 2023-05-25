@@ -9,18 +9,18 @@ export default function HelpDialog({ show, close }: { show: boolean; close: () =
     <Dialog header={`${t("WELCOME_TO_AGENT_GPT", { ns: "help" })} 🤖`} isShown={show} close={close}>
       <div>
         <p>
-          <strong>AgentGPT</strong> {t("INTRODUCING_AGENTGPT", { ns: "help" })}
+          <strong>tonbot</strong> {t("INTRODUCING_tonbot", { ns: "help" })}
         </p>
         <br />
         <div>
-          {t("TO_LEARN_MORE_ABOUT_AGENTGPT", {
+          {t("TO_LEARN_MORE_ABOUT_tonbot", {
             ns: "help",
           })}
           <a
             href="https://docs.reworkd.ai"
             className="text-sky-500"
           >
-            {t("AGENTGPT_DOCUMENTATION", { ns: "help" })}
+            {t("tonbot_DOCUMENTATION", { ns: "help" })}
           </a>
         </div>
         <br />
@@ -45,7 +45,7 @@ export default function HelpDialog({ show, close }: { show: boolean; close: () =
           </div>
           <div
             className="cursor-pointer rounded-full bg-black/30 p-3 hover:bg-black/70"
-            onClick={() => window.open("https://github.com/reworkd/AgentGPT", "_blank")}
+            onClick={() => window.open("https://github.com/reworkd/tonbot", "_blank")}
           >
             <FaGithub size={30} />
           </div>

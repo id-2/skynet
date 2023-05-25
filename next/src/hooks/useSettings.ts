@@ -7,7 +7,7 @@ import {
   GPT_35_TURBO,
 } from "../utils/constants";
 
-const SETTINGS_KEY = "AGENTGPT_SETTINGS";
+const SETTINGS_KEY = "tonbot_SETTINGS";
 const DEFAULT_SETTINGS: ModelSettings = {
   customModelName: GPT_35_TURBO,
   customTemperature: 0.9 as const,

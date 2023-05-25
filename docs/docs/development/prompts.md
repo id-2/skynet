@@ -20,7 +20,7 @@ of its prompts.
   accuracy
 - **Zero shot:** You provide a prompt to a model directly (with no examples)
 
-## Techniques in AgentGPT
+## Techniques in tonbot
 
 ### Plan and Solve
 
